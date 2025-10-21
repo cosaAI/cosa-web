@@ -1,4 +1,4 @@
-# Sentia - Landing Page
+# CosaAI - Landing Page
 
 A modern, responsive landing page built with React and Tailwind CSS.
 
